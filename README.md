@@ -14,7 +14,7 @@ A new and improved PHP library which bypasses the Cloudflare IUAM page using cUR
 
 With composer:
 
-`composer require kyranrana/cloudflare-bypass`
+`composer require YiMSIT54/cloudflare-bypass`
 
 
 #### Usage with cURL
