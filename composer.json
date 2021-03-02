@@ -1,17 +1,17 @@
 {
-  "name": "kyranrana/cloudflare-bypass",
+  "name": "YiMSIT54/cloudflare-bypass",
   "description": "A library for helping bypass the cloudflare UAM page.",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Kyran Rana",
-      "email": "kyranportfolio@gmail.com"
+      "name": "Wattanachai Waknang",
+      "email": "wattanachai.dev@gmail.com"
     }
   ],
   "require": {
     "php": "^7.2",
-    "kyranrana/simple-javascript-compilation": "^0.3.1",
+    "YiMSIT54/simple-javascript-compilation": "^0.3.1",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-bcmath": "*"
