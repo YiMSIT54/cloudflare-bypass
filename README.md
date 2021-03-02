@@ -5,7 +5,7 @@ Unfortunately these new changes which Cloudflare are implementing will not be fe
 
 # Cloudflare Bypass
 
-[![CI](https://github.com/YiMSIT54/cloudflare-bypass/workflows/CI/badge.svg)](https://github.com/YiMSIT54/cloudflare-bypass/actions?query=workflow%3ACI)
+[![CI](https://github.com/YiMSIT54/cloudflare-bypass/workflows/CI/badge.svg)](https://github.com/YiMSIT54/cloudflare-bypass/actions/workflows/laravel.yml)
 
 A new and improved PHP library which bypasses the Cloudflare IUAM page using cURL.
 
